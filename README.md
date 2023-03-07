@@ -1,6 +1,6 @@
-# My personal dotfiles
+# Dotfiles for macOS
 
-My personal Macbook development configuration. It's sort of combination
+This is my personal dotfiles. It's sort of combination
 of different dotfiles from other devs, just changed enough to fit my personal
 preferences.
 
