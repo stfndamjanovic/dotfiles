@@ -7,17 +7,17 @@ tap 'nicoverbruggen/homebrew-cask'
 
 # Binaries
 brew 'awscli'
-brew 'bash' # Latest Bash version
-brew 'coreutils' # Those that come with macOS are outdated
+brew 'bash'
+brew 'coreutils'
 brew 'ffmpeg'
 brew 'gh'
 brew 'git'
 brew 'grep'
 brew 'httpie'
 brew 'mackup'
-brew 'mas' # Mac App Store manager
-brew 'pkg-config' # https://github.com/driesvints/dotfiles/issues/20
-brew 'svn' # Needed to install fonts
+brew 'mas'
+brew 'pkg-config'
+brew 'svn'
 brew 'jpegoptim'
 brew 'optipng'
 brew 'pngquant'
@@ -26,6 +26,8 @@ brew 'gifsicle'
 
 # Development
 brew 'php'
+brew 'php@8.1'
+brew 'php@8.0'
 brew 'composer'
 brew 'imagemagick'
 brew 'meilisearch'
