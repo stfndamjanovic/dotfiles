@@ -1,8 +1,6 @@
 # Dotfiles for macOS
 
-This is my personal dotfiles. It's sort of combination
-of different dotfiles from other devs, just changed enough to fit my personal
-preferences.
+This is my personal dotfiles. It's strongly inspired by [Dries Vints](https://github.com/driesvints/dotfiles) dotfiles, just changed enough to fit my personal preferences.
 
 ## Installation
 
