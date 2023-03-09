@@ -1,6 +1,6 @@
 # Dotfiles for macOS
 
-This is my personal dotfiles. It's strongly inspired by [Dries Vints](https://github.com/driesvints/dotfiles) dotfiles, just changed enough to fit my personal preferences.
+This is my personal dotfiles. It's strongly inspired by [Dries Vints](https://github.com/driesvints/dotfiles) dotfiles, just changed enough to fit my personal preferences. If you want to know more about it, you can read the great [blog post](https://driesvints.com/blog/getting-started-with-dotfiles) that he wrote.
 
 ## Installation
 
@@ -16,4 +16,4 @@ cd ~/.dotfiles
 ./bootstrap.sh
 ```
 
-Restart computer to apply all changes and that's it.
+Restart computer to apply all changes and that's it. Your development env is ready.
